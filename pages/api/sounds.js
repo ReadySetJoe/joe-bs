@@ -20,7 +20,6 @@ const predefinedSoundDefs = [
 
   // Memes & Clips
   { id: 'curb-your-enthusiasm', name: 'Curb Your Enthusiasm', file: 'curb-your-enthusiasm.mp3', category: 'Memes & Clips' },
-  { id: 'wombo-combo', name: 'Wombo Combo', file: 'wombo-combo.mp3', category: 'Memes & Clips' },
   { id: 'x-files', name: 'X-Files', file: 'x-files.mp3', category: 'Memes & Clips' },
   { id: 'you-need-to-leave', name: 'You Need to Leave', file: 'you-need-to-leave.mp3', category: 'Memes & Clips' },
 
